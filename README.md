@@ -1,6 +1,13 @@
+<h1 align="center">Hi 👋, I'm Tulasi Audilaskhmi</h1>
+<img src="https://img.freepik.com/free-photo/beautiful-girl-with-laptop-coffee-cup-3d-rendering_1057-44874.jpg?t=st=1715706996~exp=1715710596~hmac=48abc1e92f0f3994cadd2284fec7613a516249e1418e154b8b081b7628e34264&w=740" width=1000 height=500>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://iconscout.com/lottie-animation/female-web-developer-7362400" width=500 height=200>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audi1372" alt="audi1372" /></a> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=audi1372&label=Profile%20views&color=0e75b6&style=flat" alt="audi1372" /> </p>
+
+- 🌱 I’m currently learning **Reactjs**
+
+- 📫 How to reach me **lakshmitulasi1372@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=audi1372&show_icons=true&locale=en" alt="audi1372" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=audi1372&" alt="audi1372" /></p>
