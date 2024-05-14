@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://iconscout.com/lottie-animation/female-web-developer-7362400" width=500 height=200>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audi1372" alt="audi1372" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
